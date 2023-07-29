@@ -14,6 +14,7 @@ NodeJS & TS Template =)
 
 - [Node.js](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Express](https://expressjs.com/)
 
 ## :scroll: Requirements
 
@@ -46,6 +47,21 @@ make run
 ```sh
 make test
 ```
+
+## :pin: Roadmap
+
+- [x] Add Express
+- [x] Add TypeScript
+- [x] Add Jest
+- [x] Add Eslint
+- [x] Add Github Actions
+- [ ] Add Prettier
+- [ ] Add Husky
+- [ ] Add Commitlint
+- [ ] Add Docker
+- [ ] Add Swagger
+- [ ] Add [Zod](https://zod.dev/)
+
 
 <!-- 
 
