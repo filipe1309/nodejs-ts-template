@@ -55,6 +55,7 @@ make test
 - [x] Add Jest
 - [x] Add Eslint
 - [x] Add Github Actions
+- [ ] Add Nodemon
 - [ ] Add Prettier
 - [ ] Add Husky
 - [ ] Add Commitlint
